@@ -1,6 +1,8 @@
 # 企业服务社区（Enterprise Services Community）
 ![Logo](./assets/logo.png)
 
+记录值得分享的内容。灵感来自[科技爱好者周刊](https://github.com/ruanyf/weekly)
+
 ## 2021
 **Q4**
 

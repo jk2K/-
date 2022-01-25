@@ -3,6 +3,10 @@
 
 记录值得分享的内容。灵感来自[科技爱好者周刊](https://github.com/ruanyf/weekly)
 
+## 2022
+**Q1**
+- 01.25: [当你发现你达到产品市场匹配的时候你感觉怎么样？ - Lenny Rachitsky](https://www.producthunt.com/stories/what-it-feels-like-when-you-ve-found-product-market-fit-by-lenny-rachitsky)（英文）
+
 ## 2021
 **Q4**
 

@@ -5,7 +5,7 @@
 
 ## 2022
 **Q1**
-- 03.28: [Okteto A 轮融了 1500 万美元，用来颠覆软件团队开发现代应用的方式](https://www.okteto.com/blog/a-15m-series-a-to-disrupt-modern-development/)
+- 03.28: [Okteto A 轮融了 1500 万美元，用来颠覆软件团队开发现代应用的方式](https://www.okteto.com/blog/a-15m-series-a-to-disrupt-modern-development/) （英文）
 - 01.25: [当你发现你达到产品市场匹配的时候你感觉怎么样？ - Lenny Rachitsky](https://www.producthunt.com/stories/what-it-feels-like-when-you-ve-found-product-market-fit-by-lenny-rachitsky)（英文）
 
 ## 2021

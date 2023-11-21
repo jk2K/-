@@ -1,0 +1,356 @@
+# 数据来源 https://www.cuiniuhui.com/yt
+landscape:
+  - category:
+    name: 垂直行业
+    subcategories:
+      - subcategory:
+        name: 酒店公寓
+        items:
+          - item:
+            description: 订单来了民宿酒店管理PMS系统免费版已上线!订单来了民宿管理系统支持酒店,公寓,露营地,电竞酒店,可一键接入携程,飞猪,美团民宿等ota渠道,微信,小红书,抖音营销管理工具,简单易用PMS系统软件,行业民宿都在用。
+            homepage_url: https://www.dingdandao.com/
+            logo: dingdandao.svg
+            name: 订单来了
+          - item:
+            description: 源于华住，精于连锁。从酒店行业走向连锁服务业，致力于为客户提供丰富的行业数字化解决方案
+            homepage_url: https://www.h-world.com/
+            logo: h-world.svg
+            name: 盟广信息
+          - item:
+            description: 太目官网，酒旅订单增长引擎，全渠道流量分发，酒旅代理机构
+            homepage_url: https://www.jihex.cn
+            logo: taimu.svg
+            name: 太目
+          - item:
+            description: 全国各大城市已有成熟运作的电竞酒店，通过电竞酒店会员营销,电竞酒店会员裂变,电竞酒店会员管理，使得电竞酒店成为年轻人争相打卡的网红地。选住酒店云管家提供酒店电竞管理系统,酒店电竞管理软件，欢迎致电:400-870-1988咨询
+            homepage_url: http://www.51xuanzhu.com/
+            logo: 51xuanzhu.svg
+            name: 选住酒店云管家
+          - item:
+            description: 直客通是“ 交易型 SaaS + 服务 ”的数字化营销服务商 ，成立于2014年，帮助高星酒店及景区在微信生态开设官方直销店，提高客户直销能力，构建私域流量，高效获客。全国90%以上的五星级酒店使用直客通的数字化营销解决方案，实现获客，提高收益。
+            homepage_url: https://www.zhiketong.net/
+            logo: zhiketong.svg
+            name: 直客通
+            project: Series D
+          - item:
+            description: 全房通是会找房旗下的专注于长租公寓企业的智能经营管理平台，出租屋管理系统，房屋租赁管理系统，公寓管理软件，长租公寓管理系统，功能包括房源管理、财务管理、在线催租收租、免费一键发房、电子签约等
+            homepage_url: https://www.huizhaofang.com/
+            logo: huizhaofang.svg
+            name: 会找房
+          - item:
+            description: 北京住哲信息技术有限公司，国内杰出的酒店软件开发商，为酒店开放所有API接口，支持微信订房、微信扫码支付，提供360度多渠道营销工具，目前有50000多家酒店用户使用住哲酒店管理系统。
+            homepage_url: https://www.zhuzher.com/
+            logo: zhuzher.svg
+            name: 住哲
+          - item:
+            description: 众荟以数据和人工智能技术为基石，依托行业级大数据，为各类型酒店提供科学易用的体验管理工具和切实落地的体验增值产品，形成双轮驱动，助力酒店管理效能和客户体验得到全方位提升。
+            homepage_url: https://www.jointwisdom.cn/
+            logo: jointwisdom.svg
+            name: 众荟
+          - item:
+            description: 罗盘成立于2006年，是一家全栈式SaaS酒店管理系统服务商。我们的使命是构建更智能的企业软件，让酒店运营更轻松，让酒店的宾客体验更好
+            homepage_url: https://www.luopan.com/
+            logo: luopan.svg
+            name: 罗盘
+          - item:
+            description: 寓小二，是贝壳找房（BEKE）战略投资、国内长租公寓SaaS，致力为高速成长的长租公寓运营商提供运营管理、智能设备、招租导流、安全交易的整体解决方案，助力公寓数字化转型。2021年，寓小二战略合并蘑菇租房，为中国超过500万间房源提供数字化服务。成立6年，寓小二与蘑菇租房累计融资金额超过7亿人民币。
+            homepage_url: https://www.yuxiaor.com/
+            logo: yuxiaor.svg
+            name: 寓小二
+          - item:
+            description: 蘑菇伙伴,免费的公寓管理系统，免费推广房东空置房源，功能包括房源管理，租客合同管理，账单管理，在线催租收租等。蘑菇伙伴是国内知名的公寓管理系统平台。
+            homepage_url: https://h5.mgzf.com/minisite/landlordEnter/
+            logo: mgzf.svg
+            name: 蘑菇伙伴
+          - item:
+            description: 酒店SaaS协作提效系统，管家服务系统，蜗睡官网：智慧酒店服务管家系统
+            homepage_url: https://www.idianwoo.com
+            logo: idianwoo.svg
+            name: 蜗睡
+          - item:
+            description: 别样红云PMS酒店管理系统致力于酒店数字化转型，旨在通过先进的云计算和大数据为酒店提供灵活开放、覆盖全业务场景的数字化解决方案。
+            homepage_url: https://www.beyondh.com/
+            logo: beyondh.svg
+            name: 别样红
+          - item:
+            description: 水滴管家是面向大型租赁社区的数字化运营平台，助力租赁住房项目实现运营标准化和资产证券化，全面管控资产资金、租务服务、物业管理、智能设备等全业务场景，全方位满足国资国企和开发商内控完善、流程规范的数字化需求。
+            homepage_url: https://shuidiguanjia.com/
+            logo: shuidiguanjia.svg
+            name: 水滴管家
+      - subcategory:
+        name: 不动产
+        items:
+          - item:
+            description: 如视，致力于以数字孪生空间推动产业进化，实现了720VR全景拍摄及制作功能，在产业侧的规模化落地应用，已为27个国家和地区，超过500余家客户提供数字孪生空间和实景三维重建、虚拟展厅设计等相关技术支持与服务，覆盖智慧工业、勘查测绘、文旅会展、数字零售、房产交易、家装家居等九大领域。
+            homepage_url: https://www.realsee.com/
+            logo: realsee.svg
+            name: 如视
+          - item:
+            description: 明源云，成立于2003年（其前身公司创始于1997年），是国内领先的不动产生态链数字化解决方案服务商，香港联交所主板上市（0909.HK）已经累计为7000多家不动产开发运营企业提供了数字化解决方案和产品。
+            homepage_url: https://www.mingyuanyun.com/
+            logo: mingyuanyun.svg
+            name: 明源云
+            project: listed
+          - item:
+            description: 酷家乐是一款在线高效云设计软件，3步上手，10秒做出超清3D效果图，平台有着3000多万的注册用户，合作企业达到了2万多家，同时还为广大业主朋友、房产从业者提供累计1.5亿免费设计素材和3亿+设计方案，覆盖全国90%户型的户型图以及海量装修效果图、3D模型素材。
+            homepage_url: https://www.kujiale.com/
+            logo: kujiale.svg
+            name: 酷家乐
+            project: Series E
+          - item:
+            description: 华筑科技致力于工程施工领域信息化建设，核心产品“项管家”——专注施工现场管理的云平台包含施工安全、劳务、进度等项目管理及物联监测应用，适用于房建、路桥、隧道。目前在北京新机场、杭州奥体中心、萧山国际机场等5000余大型基础建设工地应用，与中建、中交、中铁、广西路桥、广西建工、甘肃路桥等数百个集团企业进行战略合作。
+            homepage_url: https://www.1357.cn/
+            logo: 1357.svg
+            name: 项管家
+          - item:
+            description: 地产信息化,建筑信息化,地产项目管理，计划管理系统,成本管理,合同管理,动态成本管理,签证变更管理app,工程项目进度质量管理APP,工程管理APP,EPC项目管理,EPC项目管理软件,设计管理,工程管理,工程进度管理,工程质量管理,工序管理,工序移交,移动质检,质检app,移动变更,移动质检,移动验房,长租公寓管理系统
+            homepage_url: https://www.bluewall.com.cn/
+            logo: bluewall.svg
+            name: 蓝墙互联
+          - item:
+            description: 优码科技致力成为房地产领先的客户经营综合服务商，以SAAS+客户场景运营+大数据决策智能商业模式助力地产客户业务升级，经营在线，实现对内业务赋能，盘活客户资产，精准服务营销，对外实现客户服务品质夯实，口碑体验卓著，真正以客户为中心价值兑现，实现客户，企业，供方共赢！
+            homepage_url: https://www.youmatech.com/
+            logo: youmatech.svg
+            name: 优码科技
+          - item:
+            description: 匠人科技商办资产管理平台，围绕CREAMS资产管理系统和LIKECRM招商管理系统，为资管人搭建完整的数字化商办资产管理体系，提高商办资产价值。
+            homepage_url: https://www.creams.io/
+            logo: creams.svg
+            name: 匠人科技
+      - subcategory:
+        name: 农业
+        items:
+          - item:
+            description: 极飞科技是一家以“提升农业生产效率”为使命，构建“无人化”农业生态系统的智慧农业科技公司。成立 14 年来，极飞自主研发并制造了农业无人机、农业无人车、农机自驾仪、农业物联网、遥感无人机、智慧农业系统等智慧农业产品线。
+            homepage_url: https://www.xa.com/
+            logo: xa.svg
+            name: 极飞科技
+            project: Series D
+          - item:
+            description: 蔬东坡提供专业的生鲜供应链SaaS解决方案，包括生鲜配送系统、蔬菜配送软件、食材配送软件等，为超过10000家生鲜配送企业提供数智服务
+            homepage_url: https://www.sdongpo.com/
+            logo: sdongpo.svg
+            name: 蔬东坡
+          - item:
+            description: 康铭泰克专为侧重于采购及供应链的市场提供企业级的垂直业态SaaS解决方案，适用多种业态，提升中小实体零售企业的经营效率和盈利能力，水果、炒货零食、熟食、肉品、社区生鲜
+            homepage_url: https://www.comteck.cn/
+            logo: comteck.svg
+            name: 康铭泰克
+          - item:
+            description: 慧云信息致力于将农产品安全追溯、农业物联网、人工智能大数据技术与农业生产经营相结合，为用户提供业界领先的智慧农业解决方案，促进农产品安全与品质的提升。
+            homepage_url: https://www.tcloudit.com/
+            logo: tcloudit.svg
+            name: 慧云信息
+          - item:
+            description: 丰顿科技始创于2005年，是一家“智慧养殖及动产数字化”整体解决方案的专业供应商公司，致力于“养殖大数据服务平台”构建与运营
+            homepage_url: http://www.foidn.com/
+            logo: foidn.svg
+            name: 丰顿科技
+          - item:
+            description: 不愁网成立于2017年，总部位于美丽的海滨城市--青岛。目前在北京、广州拥有两家全资子公司。公司通过研发应用新一代信息技术，着力解决困扰畜牧行业已久的“愁养”、“愁病”、“愁卖”、“愁钱”、“愁运输”等一系列老大难问题。让养殖者不再发愁
+            homepage_url: https://www.buchouwang.com/
+            logo: buchouwang.svg
+            name: 不愁网
+          - item:
+            description: 美菜致力于用前卫的理念和先进的科技改变落后的国内农业市场，专注为全国近百万家餐厅，提供全品类、全程无忧的餐饮食材采购服务
+            homepage_url: https://www.meicai.cn
+            logo: meicai.svg
+            name: 美菜
+      - subcategory:
+        name: 政企
+        items:
+          - item:
+            description: 元声象素助力推进基层治理体系和治理能力现代化建设
+            homepage_url: https://www.186dt.com/
+            logo: 186dt.svg
+            name: 元声象素
+          - item:
+            description: 璞华官方热线：4006-160-730。璞华科技，是一家以长期主义精耕业务、基于行业最佳实践、通过不断进化的产品和服务帮助客户实现数智化转型升级的高科技企业，赋能客户高效实现信息化、数字化、智能化发展，在智慧研发、智能维保、采购供应链、智慧教育、智慧政务、数字金融、园区运营、包装排版等多个领域处于行业领先地位。
+            homepage_url: https://www.purvar.com/
+            logo: purvar.svg
+            name: 璞华
+          - item:
+            description: 北京北信源是信息安全领域龙头企业之一，终端安全领域，信创安全企业。成立于1996年，注册资本14.5亿，2012年信息安全领域首批A股上市企业之一，现已成为数字经济时代智慧安全的全面产品提供商和解决方案提供商。
+            homepage_url: http://www.vrv.com.cn/
+            logo: vrv.svg
+            name: 北信源
+          - item:
+            description: 北京用友政务软件股份有限公司由用友（集团）和中国财政科学研究院共同设立，是面向政府部门、事业单位、非营利组织的全方位业务管理信息化解决方案提供商，致力于服务政府与公共组织的数字化转型与智能化发展，用创想与技术推动商业和社会进步
+            homepage_url: https://www.yonyougov.com/
+            logo: yonyougov.svg
+            name: 用友政务
+      - subcategory:
+        name: 医疗
+        items:
+          - item:
+            description: 医家通是一家专注于智慧养老系统服务领域的高新技术企业，提供智慧养老系统解决方案，为居家养老、社区养老、机构养老、家政公司、养老地产提供智慧平台+硬件设备+运营支持的一站式服务。
+            homepage_url: https://www.htohcloud.com/
+            logo: htohcloud.svg
+            name: 医家通
+          - item:
+            description: 图特科技官网，图特是国内领先的HRP、医疗供应链及SPD整体解决方案提供商和服务商
+            homepage_url: https://www.thothinfo.com/
+            logo: thothinfo.svg
+            name: 图特
+          - item:
+            description: 蓬涞数据本着“学术引领、数据驱动、价值创造、共同成长”的宗旨，致力于用数据驱动医院管理向精益化跃升，用机制变革推动医疗资源配置模式重构
+            homepage_url: https://www.palline.cn/
+            logo: palline.svg
+            name: 蓬涞数据
+      - subcategory:
+        name: 餐饮
+        items:
+          - item:
+            description: “哗啦啦”隶属于北京多来点信息技术有限公司，公司成立于2011年，注册资本2.13亿，是国家信息产业部、北京科委认定的高新技术企业、双软认证企业，也是中烹协餐饮供应链与新零售委员会副主席单位、中饭协数字化专委会副理事长单位、中物联食材供应链分会副会长单位。目前，哗啦啦已签约餐饮商户超40万，其中连锁客户占比82%。哗啦啦所服务客户年交易总额超7000亿人民币，在2021年的行业大盘中，占比接近15%。在中国餐饮百强品牌中，一半以上的企业享受着哗啦啦的服务
+            homepage_url: https://www.hualala.com/
+            logo: hualala.svg
+            name: 哗啦啦
+          - item:
+            description: 美味不用等是专业的本地生活新媒体营销服务平台，通过B端全域营销服务和C端产品转化交易，解决餐厅的效率、管理、营销、成本和顾客就餐体验等方面的问题。
+            homepage_url: https://www.mwee.cn/
+            logo: mwee.svg
+            name: 美味不用等
+          - item:
+            description: 美团是一家科技零售公司。美团以“零售 + 科技”的战略践行“帮大家吃得更好，生活更好”的公司使命。自2010年3月成立以来，美团持续推动服务零售和商品零售在需求侧和供给侧的数字化升级，和广大合作伙伴一起努力为消费者提供品质服务。2018年9月20日，美团在港交所挂牌上市。美团始终以客户为中心，不断加大在新技术上的研发投入。美团会和大家一起努力，更好承担社会责任，更多创造社会价值。
+            homepage_url: https://www.meituan.com/win-together
+            logo: meituan.svg
+            name: 美团
+            project: listed
+      - subcategory:
+        name: 法律
+        items:
+          - item:
+            description: 无讼，故宫边的法律互联网平台，致力于通过大数据、智能技术等构建连接法律服务供需双方的互联网平台。目前已有超16万律师入驻无讼平台，为企业及个人提供可信赖的法律服务,让法律更好地服务每个人。联系电话:400-010-5353
+            homepage_url: https://www.wusong.com/
+            logo: wusong.svg
+            name: 无讼
+          - item:
+            description: 「海蜂法务」独创“共享法务部”模式为全国各行业、各地区民营企业提供常年法律顾问服务、股权设计/融资/激励服务、商事争议诉讼服务等。通过匹配1名专属企业法务，部署1套智能SaaS系统、构建1支行业合规研究团队，为会员企业经营管理保驾护航，实现全流程法律风险化解防控，专业、智能、可依赖。
+            homepage_url: https://www.haifeng.cn/
+            logo: haifeng.svg
+            name: 海蜂法务
+          - item:
+            description: 法大大是专业的电子合同平台,为企业提供电子签章、电子签约等在线合同签署服务;法大大电子合同还为大中型企业提供一站式智能合同管理,实现线上合同起草,合同比对,合同审查,合同归档提醒,帮助企业实现数智化办公.
+            homepage_url: https://www.fadada.com/
+            logo: fadada.svg
+            name: 法大大
+      - subcategory:
+        name: 家政
+        items:
+          - item:
+            description: 熊猫系统专门针对家政、月嫂、保姆、保洁、产康、培训等领域，提供专业的一站式家政服务解决方案，包含客户跟进管理、阿姨管理、阿姨电子简历、阿姨背景调查、在线面试、保险、体检、培训、证书、合同管理、财务管理、营销工具等功能，是数万家政公司开店必选的专业家政SAAS平台
+            homepage_url: https://www.jiazhengye.cn/
+            logo: jiazhengye.svg
+            name: 熊猫系统
+      - subcategory:
+        name: 美业
+        items:
+          - item:
+            description: 一禾美云是中国美业互联网领导品牌，提供美容院管理、美容美发软件、美发店管理等saas软件服务，打造美业商学院第一品牌。
+            homepage_url: http://www.eher365.com/
+            logo: eher365.svg
+            name: 一禾美云
+          - item:
+            description: 博卡基于近20年的行业洞察，依托自主技术研发团队及10余万美业用户的信赖与选择，现已在美发（含美甲、综合店）、美容、医美、足浴等美业细分领域，发布了一系列成熟的美业经营管理一体化解决方案！
+            homepage_url: https://www.shboka.com/
+            logo: shboka.svg
+            name: 博卡
+      - subcategory:
+        name: 医药
+        items:
+          - item:
+            description: 医百科技专注医药企业数字化营销领域，一站式SaaS服务为药企生成专属营销数字化转型平台，帮药企沉淀数据和医生，助力药企走进“合规、专属、高效、赋能”的医药营销新时代。
+            homepage_url: https://www.100doc.com.cn/
+            logo: 100doc.svg
+            name: 医百科技
+          - item:
+            description: 决策易聚焦于生命大健康领域,多版本针对临床SFE、零售OTC、招商合规等业务模式.,涵盖流向管理与外包服务,精准环绕销售业务每一步.400-9282-589
+            homepage_url: https://www.recloud.com.cn/
+            logo: recloud.svg
+            name: 决策易
+      - subcategory:
+        name: 物流
+        items:
+          - item:
+            description: 满帮集团以大数据、人工智能等新一代信息技术为导向，以平台、交易、增值服务等多个核心业务布局，致力于打造全球最大的智慧物流生态平台，改变传统物流行业“小、乱、散、弱”的状况，帮助司机和货主降本增效，让物流更智慧。如今，由货车帮、运满满等平台共同组成的满帮物流平台已发展成国内最大的数字货运平台。
+            homepage_url: https://www.fulltruckalliance.com/
+            logo: fulltruckalliance.svg
+            name: 满帮集团
+            project: listed
+          - item:
+            description: G7易流是公路货运行业领先的物联网SaaS公司-G7易流以物联网技术为货运经营者提供一站式公路货运SaaS及经营管理平台-IoT服务:安全管家/冷链管家/流向管家/追货管家-交易服务:数字货运/数字货舱(智能挂车)/物联保险。
+            homepage_url: https://www.g7.com.cn/
+            logo: g7.com.svg
+            name: G7易流
+          - item:
+            description: 菜鸟是电商物流行业的全球领导者，全球最大的跨境电子商务物流提供商，也是中国顶尖的电商综合供应链提供商。凭借出色的“电商和科技”基因，构建了一张全球智慧物流网络，通过不断创新解决方案，满足高速增长的复杂电商物流需求。
+            homepage_url: https://www.cainiao.com/
+            logo: cainiao.svg
+            name: 菜鸟
+      - subcategory:
+        name: 能源
+        items:
+          - item:
+            description: 千瓦科技通过易运维、碳无忧、低碳网等平台，累计为7000+家客户提供了能源监控、运维管理、万物互联、节能减排等数字化解决方案和服务
+            homepage_url: https://www.qianwa.com/
+            logo: qianwa.svg
+            name: 千瓦科技
+      - subcategory:
+        name: 零售
+        items:
+          - item:
+            description: 九章数据（Aival Data）作为以商业场景智能化应用为主营方向，立足企业场景需求的软件服务商，结合行业经验壁垒，为企业提供具有业务价值的数据分析及应用解决方案。目前，九章已助力多个行业头部企业及品牌的数字化转型和数据价值创新，包括屈臣氏（中国）、华润万家、锦江（中国）、万达集团、宝洁等。
+            homepage_url: https://www.9zdata.cn/
+            logo: 9zdata.svg
+            name: 九章数据
+          - item:
+            description: 生意专家成立于2013年，专注于帮助实体门店系统性提升经营效率，生意专家拥有完整的零售门店管理产品线， 通过SaaS模式向商家提供服务
+            homepage_url: https://www.shengyi.ai/
+            logo: shengyi.svg
+            name: 生意专家
+          - item:
+            description: 旺店通(www.wangdian.cn)是一款专门为电商量身定做的电商ERP系统软件，致力于提供专业的电子商务ERP解决方案，能全面覆盖线上电商、网店以及线下实体店进销存管理及wms仓储管理系统，客户包括中粮集团，强生，君乐宝等上市企业
+            homepage_url: https://www.wangdian.cn/
+            logo: wangdian.svg
+            name: 旺店通
+  - category:
+    name: Category 2
+    subcategories:
+      - subcategory:
+        name: Subcategory 2-1
+        items:
+          - item:
+            crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
+            description: This is the description of item 6
+            homepage_url: https://cncf.io
+            logo: cncf.svg
+            name: Item 6
+            project: graduated
+            repo_url: https://github.com/cncf/landscape2
+            twitter: https://twitter.com/CloudNativeFdn
+          - item:
+            crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
+            description: This is the description of item 7
+            homepage_url: https://cncf.io
+            logo: cncf.svg
+            name: Item 7
+            project: sandbox
+            repo_url: https://github.com/cncf/landscape2
+            twitter: https://twitter.com/CloudNativeFdn
+          - item:
+            description: This is the description of item 8
+            homepage_url: https://cncf.io
+            logo: cncf.svg
+            name: Item 8
+      - subcategory:
+        name: Subcategory 2-2
+        items:
+          - item:
+            crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
+            description: This is the description of item 9
+            homepage_url: https://cncf.io
+            logo: cncf.svg
+            name: Item 9
+            repo_url: https://github.com/cncf/landscape2
+            twitter: https://twitter.com/CloudNativeFdn
+
